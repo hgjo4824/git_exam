@@ -1,6 +1,6 @@
 # 더하기 함수 정의
 dehagi <- function(a, b) {
-  return(a + b)
+  return(a * b)
 }
 
 # 테스트 코드
